@@ -1,6 +1,6 @@
 # Tldr - Generate Summaries From Web Articles
 
-##Instructions
+## Instructions
 - Enter URLs of news articles you want to summarize
 - On submit, summaries will be generated and added to the queue
 - A new window will appear for your first summary
